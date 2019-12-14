@@ -15,4 +15,17 @@ we performed automated recasting of three existing text classification datasets 
 Hindi language to Natural Language Inference datasets. This resulted in three NLI datasets with 43K, 17K, and 203K 
 premise hypothesis pairs. The dataset along with its details is shared in this repo.
 
+## Dataset Overview
 
+Three different affective content datasets in Hindi language is recasted. Two of them are in the domain of sentiment analysis - Product Review dataset **PR** and Movie Review **MR** dataset developed by [Akhtar et al](http://iitp.ac.in/~ai-nlp-ml/resources.html). The third one is the largest emotion analysis dataset in Hindi - [BHAAV](https://github.com/midas-research/bhaav) BH developed by Kumar et al.
+
+The data is shared as tsv files overe [here](https://github.com/midas-research/hindi-nli-data/blob/master/recasted-hindi-nli-data.zip).
+
+### Recasting Process
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/recasting-template.png" alt="recasting-process"  width="60%"/>
+  <br>
+</p>
+<br>
