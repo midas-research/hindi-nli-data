@@ -52,7 +52,7 @@ The data is shared as tsv files overe [here](https://github.com/midas-research/h
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/recasted-data-distribution.png" alt="train-test-distribution"  width="60%"/>
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/recasted-data-distribution.png" alt="train-test-distribution"  width="40%"/>
   <br>
 </p>
 <br>
@@ -61,7 +61,7 @@ The data is shared as tsv files overe [here](https://github.com/midas-research/h
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/te-accuracy.png" alt="te-accuracies"  width="60%"/>
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/te-accuracy.png" alt="te-accuracies"  width="40%"/>
   <br>
 </p>
 <br>
