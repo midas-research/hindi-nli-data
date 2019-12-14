@@ -34,7 +34,7 @@ The data is shared as tsv files overe [here](https://github.com/midas-research/h
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/source-data-sample.png" alt="original-samples"  width="60%"/>
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/source-data-sample.png" alt="original-samples"  width="95%"/>
   <br>
 </p>
 <br>
@@ -43,7 +43,7 @@ The data is shared as tsv files overe [here](https://github.com/midas-research/h
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/recasted-data-samples.png" alt="recasted-samples"  width="60%"/>
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/recasted-data-samples.png" alt="recasted-samples"  width="95%"/>
   <br>
 </p>
 <br>
