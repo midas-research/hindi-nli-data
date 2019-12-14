@@ -32,15 +32,38 @@ The data is shared as tsv files overe [here](https://github.com/midas-research/h
 
 ### Samples from Original Sources
 
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/source-data-sample.png" alt="original-samples"  width="60%"/>
+  <br>
+</p>
+<br>
 
 ### Recasted Samples
 
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/recasted-data-samples.png" alt="recasted-samples"  width="60%"/>
+  <br>
+</p>
+<br>
 
 ### Distribution of Train and Test samples in the Recasted Dataset
 
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/recasted-data-distribution.png" alt="train-test-distribution"  width="60%"/>
+  <br>
+</p>
+<br>
 
-### Performance of different Sentence Embeddings on Textual Entailment Task
+### Accuracies of different Sentence Embeddings on Textual Entailment Task
 
-
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/te-accuracy.png" alt="te-accuracies"  width="60%"/>
+  <br>
+</p>
+<br>
 
 
