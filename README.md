@@ -29,3 +29,18 @@ The data is shared as tsv files overe [here](https://github.com/midas-research/h
   <br>
 </p>
 <br>
+
+### Samples from Original Sources
+
+
+### Recasted Samples
+
+
+### Distribution of Train and Test samples in the Recasted Dataset
+
+
+### Performance of different Sentence Embeddings on Textual Entailment Task
+
+
+
+
