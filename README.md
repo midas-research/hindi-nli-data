@@ -78,7 +78,7 @@ The data is shared as tsv files overe [here](https://github.com/midas-research/h
 Please feel free to send us an email:
 - with feedback regarding the corpus.
 - with information on how you have used the corpus.
-- if interested in having us analyze your data for emotion, and other affectual information.
+- if interested in having us analyze your data for natural language inference.
 - if interested in a collaborative research project.
 
 Copyright (C) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi (MIDAS, IIIT-Delhi)
