@@ -1,0 +1,5 @@
+"Anger": 0
+"Joy": 1
+"Sad": 2
+"Suspense": 3
+"Neutral": 4

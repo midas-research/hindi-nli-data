@@ -1,0 +1,7 @@
+"india" : 0
+"news" : 1
+"international" : 2
+"entertainment" : 3
+"sport" : 4
+"science" : 5
+

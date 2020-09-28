@@ -1,0 +1,5 @@
+"Argumentative": 0
+"Descriptive": 1
+"Dialogic": 2
+"Informative": 3
+"Narrative": 4
