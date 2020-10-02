@@ -1,5 +1,5 @@
 # hindi-nli-data
-a repository containing the details of natural language inference dataset in Hindi developed by
+A repository containing the details of natural language inference dataset in Hindi developed by
 
 <br>
 <p align="center">
@@ -8,18 +8,14 @@ a repository containing the details of natural language inference dataset in Hin
 </p>
 <br>
 
-**hindi-nli-data** is the first recasted dataset for natural language inference in Hindi. Evaluating the learning capabilities of deep learning models in the field of Natural Language Processing has always been 
-challenging. The task of Natural Language Inference (NLI) have been the touchstone in measuring their performance. 
-However, there is complete absence of labeled NLI datasets in a low-resource language like Hindi. To address this, 
-we performed automated recasting of three existing text classification datasets related to affective content analysis in 
-Hindi language to Natural Language Inference datasets. This resulted in three NLI datasets with 43K, 17K, and 203K 
-premise hypothesis pairs. The dataset along with its details is shared in this repo.
+**hindi-nli-data** is the first recasted dataset for natural language inference in Hindi. Evaluating the learning capabilities of deep learning models in the field of Natural Language Processing has always been challenging. The task of Natural Language Inference (NLI) have been the touchstone in measuring their performance. 
+However, there is complete absence of labeled NLI datasets in a low-resource language like Hindi. To address this, we performed automated recasting of three existing text classification datasets related to affective content analysis in Hindi language to Natural Language Inference datasets. This resulted in four NLI datasets with 21K, 26K, 55K and 105K premise-hypothesis pairs. The dataset along with its details is shared in this repo.
 
 ## Dataset Overview
 
-Three different affective content datasets in Hindi language is recasted. Two of them are in the domain of sentiment analysis - Product Review dataset **PR** and Movie Review **MR** dataset developed by [Akhtar et al](http://iitp.ac.in/~ai-nlp-ml/resources.html). The third one is the largest emotion analysis dataset in Hindi - [BHAAV](https://github.com/midas-research/bhaav) **BH** developed by Kumar et al.
+Four different datasets belonging to the semantic phenomenon: **Sentiment Analysis**, **Emotion Analysis**, **Discourse Analysis** and **Topic-Modelling** in Hindi language are recasted. For the sentiment analysis domain - Product Review dataset **PR** developed by [Akhtar et al](http://iitp.ac.in/~ai-nlp-ml/resources.html) is utlilized. For emotion analysis, we consider the largest emotion analysis dataset in Hindi - [BHAAV](https://github.com/midas-research/bhaav) **BH** developed by Kumar et al and hindi-discourse (https://github.com/midas-research/hindi-discourse) for the discourse analysis dataset. We use the BBC News dataset for the classification over topic modelling (https://tinyurl.com/y8hxtbn8).
 
-The data is shared as tsv files overe [here](https://github.com/midas-research/hindi-nli-data/blob/master/recasted-hindi-nli-data.zip).
+The data for all four phenomenon is shared as tsv files over [here](https://github.com/midas-research/hindi-nli-data/tree/master/Classification) for the Classification task and (https://github.com/midas-research/hindi-nli-data/tree/master/Textual_Entailment) for the task of Natural Language Inference.
 
 ### Recasting Process
 
