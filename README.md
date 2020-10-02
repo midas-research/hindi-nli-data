@@ -15,7 +15,7 @@ However, there is complete absence of labeled NLI datasets in a low-resource lan
 
 Four different datasets belonging to the semantic phenomenon: **Sentiment Analysis**, **Emotion Analysis**, **Discourse Analysis** and **Topic-Modelling** in Hindi language are recasted. For the sentiment analysis domain - Product Review dataset **PR** developed by [Akhtar et al](http://iitp.ac.in/~ai-nlp-ml/resources.html) is utlilized. For emotion analysis, we consider the largest emotion analysis dataset in Hindi - [BHAAV](https://github.com/midas-research/bhaav) **BH** developed by Kumar et al and hindi-discourse (https://github.com/midas-research/hindi-discourse) for the discourse analysis dataset. We use the BBC News dataset for the classification over topic modelling (https://tinyurl.com/y8hxtbn8).
 
-The data for all four phenomenon is shared as tsv files over [here](https://github.com/midas-research/hindi-nli-data/tree/master/Classification) for the Classification task and (https://github.com/midas-research/hindi-nli-data/tree/master/Textual_Entailment) for the task of Natural Language Inference.
+The data for all four phenomenon is shared as tsv files over [here](https://github.com/midas-research/hindi-nli-data/tree/master/Classification) for the Classification task and [here](https://github.com/midas-research/hindi-nli-data/tree/master/Textual_Entailment) for the task of Natural Language Inference.
 
 ### Recasting Process
 
