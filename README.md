@@ -53,11 +53,11 @@ The data for all four phenomenon is shared as tsv files over [here](https://gith
 </p>
 <br>
 
-### Accuracies of different Sentence Embeddings on Textual Entailment Task
+### Inconsistency in premise-hypothesis pairs
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/te-accuracy.png" alt="te-accuracies"  width="40%"/>
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/consistency-example.PNG" alt="consistency-example"  width="70%"/>
   <br>
 </p>
 <br>
