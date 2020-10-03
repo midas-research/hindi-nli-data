@@ -57,7 +57,7 @@ The data for all four phenomenon is shared as tsv files over [here](https://gith
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/consistency-example.PNG" alt="te-accuracies"  width="40%"/>
+  <img src="https://github.com/midas-research/hindi-nli-data/blob/master/consistency-example.PNG" alt="consistency-example"  width="70%"/>
   <br>
 </p>
 <br>
