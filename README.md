@@ -81,9 +81,6 @@ Copyright (C) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institut
 
 ## References
 
-Paper under review. Please check back soon.
-
-
 ```
 @inproceedings{uppal-etal-2020-two,
     title = "Two-Step Classification using Recasted Data for Low Resource Settings",
